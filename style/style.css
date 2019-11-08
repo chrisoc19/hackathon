@@ -1,56 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Griffy&display=swap');
-​
+
 *{
     font-family: 'Griffy', cursive;
-
+font-weight: 600;
+font-size: 30px;
 
 }
-​
+
 body{
     background-color: #682b80;
 }
-​
-header{
-    position: fixed;
-}
-​
-a{
-    text-decoration: none;
-}
-​
-header a{
-    color: #BD7913;
 
-}
-​
-a:hover,
-a:active{
-    color: #7d500c;
-    font-weight: 600;
-    text-decoration: none;
-}
-​
-h1{
-    color: #FCA219;
-    font-size: 4rem;
-    text-shadow: .5rem 1rem 1rem #BD7913;
-}
-​
-​
-​
-h2{
-    padding-top: 2rem;
-​
-    color: #31cc88;
-    font-weight: 600;
-      text-shadow:
-            -3px -3px 0 #3d206,
-            5px -5px 0 #3d206,
-            -3px 3px 0 #3d206,
-             3px 3px 0 #3d206;
-​
-}
-​
 .navMenu{
     padding: .5rem;
     font-size: 1.5rem;
