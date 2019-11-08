@@ -15,3 +15,5 @@ Happy coding!
 Testing my branch - Nic Britz
 
 >>>>>>> master
+
+<!--Testing branch-->
