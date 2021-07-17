@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Griffy&display=swap');
+
+*{
+    font-family: 'Griffy', cursive;
+font-weight: 600;
+font-size: 30px;
+
+}
+
+body{
+    background-color: #682b80;
+}
+
+.navMenu{
+    padding: .5rem;
+    font-size: 1.5rem;
+}
+
+.header{
+    color: orange;
+}
